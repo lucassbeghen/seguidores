@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #E0E0E0;
+}
+
+main {
+  margin: 50px auto;
+  width: 960px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  background-color: #FFF;
+  gap: 10px;
+  padding: 10px;
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.5);
+}
+
+main a {
+  display: block;
+  background-color: black;
+}
+
+main a img {
+  width: 100%;
+  display: block;
+}
