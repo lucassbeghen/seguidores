@@ -1,0 +1,3 @@
+Criar uma rota /
+Criar o controller que vai carregar os seguidores de um usuario
+Fazer com que esse controller envie uma view com a imagem e links dos seguidores
